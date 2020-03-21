@@ -5,7 +5,7 @@
 
 <div class="copyright-wrap">
   <div class="n-container">
-    <div class="copyright">© 2020 xushibo
+    <div class="copyright">© 2020 
   </div>
 </div>
 
